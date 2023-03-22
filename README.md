@@ -13,7 +13,7 @@
 
 - 🎓 I am currently a **Computer Science grad student** at **Stevens Institute of Technology**
 
-- 💬 Ask me about **React, NextJS, Javascript, Redux, GraphQL, Redis, Firebase**
+- 💬 Ask me about **React, NextJS, NodeJS, Javascript, Redux, GraphQL, Redis, Firebase**
 
 - 📫 How to reach me **smane2@stevens.edu** / **saurabhmane7120@outlook.com**
 
