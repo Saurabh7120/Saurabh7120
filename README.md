@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **smane2@stevens.edu** / **saurabhmane7120@outlook.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Ao3dL7-0RidtNQgQA_8dWZZ6kTiNTl4c/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1CwmXFdHZLG9vY1jSBlNMzVAWX0IEuxRm/view?usp=sharing)
 
 - ⚡ Fun fact **I can cook, put together a cool outfit and make a cool playlist for any mood**
 
