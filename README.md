@@ -1,79 +1,60 @@
-<div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
-<h1 align="left" style="
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-">Hey there 👋, I am Saurabh Mane
-</h1>
-  <h3 style="font-size:20px; margin-top:10px; width:100%; color:#797D7F;" align="left">A programming enthusiast from India 🇮🇳</h3>
+<h1 align="left">Hey there 👋, I am Saurabh Mane</h1>
+<h3 align="left" style="color:#797D7F;">Full-Stack Software Engineer 🇺🇸 Jersey City, NJ</h3>
 
-<h2>About me 
-<img width='100' style="margin-left:10px;" src="https://drive.google.com/uc?export=view&id=1HQzFGeaIwEF3qYSiaPmsLjrFnOHXuukG"/>
-</h2>
+<h2>About me</h2>
 
-- 🎓 I am currently a **Computer Science grad student** at **Stevens Institute of Technology**
+- 💼 **Full-Stack Software Engineer** with 5+ years shipping production **React / Flask / Node** apps, including co-building an insurance operations portal used by **20,000+ agents**
+- 🤖 Currently focused on **agentic AI** to automate developer and business workflows: AI-driven cloud migrations and AI-assisted carrier contracting (a 1-3+ week process cut to a single sitting)
+- 🎓 **M.S. in Computer Science**, Stevens Institute of Technology (GPA 3.9) · B.E. Computer Engineering, University of Mumbai
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Flask, GraphQL, PostgreSQL, Redis, AWS/GCP/Azure, Claude Code**
+- 📫 Reach me at **saurabhmane7120@outlook.com**
+- 📄 Know about my experience: [**Resume**](https://drive.google.com/file/d/1CwmXFdHZLG9vY1jSBlNMzVAWX0IEuxRm/view?usp=sharing)
+- ⚡ Fun fact: **I can cook, put together a cool outfit and make a cool playlist for any mood**
 
-- 💬 Ask me about **React, NextJS, NodeJS, Javascript, Redux, GraphQL, Redis, Firebase**
+<h2>What I've built</h2>
 
-- 📫 How to reach me **smane2@stevens.edu** / **saurabhmane7120@outlook.com**
+- **Underwriting Portal**: multi-role insurance platform (React + Flask) with RBAC for agents, underwriters and support; digital underwriting decisions in under 10 minutes across 6+ carriers
+- **Monitorly**: internal session-replay observability platform with Microsoft Teams alerting; replaced LogRocket and saves >$10K/year
+- **UW-Studio**: UI-based authoring and configuration tool for the underwriting engine
+- **Side projects**: [Quoted](https://github.com/saurabh7120) (Next.js, Firestore) · TULSEE (Next.js, Node, Socket.io, AWS EC2) · Work For U (Next.js, Node, JWT)
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1CwmXFdHZLG9vY1jSBlNMzVAWX0IEuxRm/view?usp=sharing)
-
-- ⚡ Fun fact **I can cook, put together a cool outfit and make a cool playlist for any mood**
-
-<h2>What do I know? 
-<img width='120' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1bFCsv31klrOOeUmVVtMPetfCGzzrCsST"/>
-</h2>
+<h2>What do I know?</h2>
 
 <table>
     <tr>
         <th>Languages</th>
-        <td><img width='48' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1qr-X0Ok6_EHxkeKmhWXWeN2tSPd9wheh"/>
-        <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>
-        <img width='48' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1kRF4Wzk72UdMvCc94bM5qEuGhp0Mi2fd"/></td>
+        <td><img src="https://skillicons.dev/icons?i=js,ts,python,java,postgres" /></td>
     </tr>
     <tr>
-        <th>Technologies</th>
-        <td><img width='50' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1z86w8r7tZQmHqRntE6jaKH6Mhm46P8pq"/><img src="https://img.icons8.com/color/48/000000/nextjs.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
-            <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-            <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
- <img src="https://img.icons8.com/color/48/000000/redux.png"/>
- <img width="48" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"/>
- </td>
+        <th>Frontend</th>
+        <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,sass,storybook" /></td>
     </tr>
     <tr>
-        <th>Database</th>
-        <td><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-        <img width='48' src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
-        <img src="https://img.icons8.com/color/48/000000/redis.png"/></td>
+        <th>Backend &amp; APIs</th>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" /></td>
     </tr>
     <tr>
-    <th>Version Control</th>
-        <td><img width='48' src="https://drive.google.com/uc?export=view&id=18Yarf1_eO9Z-E5zzYevCoapmQM2p_ISS"/>
-        <img width='48' src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"/>
-        <img width='80' src="https://www.praktikgroup.com/wp-content/uploads/2018/04/tfs.jpg"/></td>
+        <th>Data</th>
+        <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,prisma" /></td>
+    </tr>
+    <tr>
+        <th>Cloud</th>
+        <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp" /></td>
+    </tr>
+    <tr>
+        <th>Tools</th>
+        <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,figma" /></td>
     </tr>
 </table>
 
-<h2>Connect with me 
-<img width='100' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1QSrJ8bERV7UbCMfaB4ldNBGeChZyBorw"/>
-</h2>
-<div style="display:flex; margin-bottom:20px">
-<p align="left" style="margin:2px">
-<a href="https://linkedin.com/in/saurabh-m-7607608a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-m-7607608a" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/_saurabh_7120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh-m-7607608a" height="30" width="40" /></a>
+<h2>Connect with me</h2>
+<p align="left">
+<a href="https://linkedin.com/in/saurabh-m-7607608a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_saurabh_7120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-</div>
 
-<h2>Stats 
-<img width='100' style="margin-left:10px" src="https://drive.google.com/uc?export=view&id=1Zl2vd2AMbopfFcA3ZbIdEc_OVv5eqsit"/>
-</h2>
-<div style="display:flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh7120&show_icons=true&locale=en&layout=compact" alt="saurabh7120" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh7120&show_icons=true&locale=en" alt="saurabh7120" /></p>
-</div>
-
-
-
+<h2>Stats</h2>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh7120&show_icons=true&locale=en&layout=compact" alt="saurabh7120" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh7120&show_icons=true&locale=en" alt="saurabh7120" />
+</p>
